@@ -1,5 +1,5 @@
 # ValidSudoku
-This is a simple Python program that checks whether a given Sudoku board is valid or not using Hashset. The Sudoku board is a 9x9 grid, where each cell can contain a digit from 1 to 9, or a blank space represented by 0 or '.'.
+This is a simple Python program that checks whether a given Sudoku board is valid or not using Hashset. The Sudoku board is a 9x9 grid, where each cell can contain a digit from 1 to 9, or a blank space represented by 0 or '.'
 
 ## Input Format
 The Sudoku board should be provided as a list of lists, where each inner list represents a row of the board. The digits and blank spaces should be represented as integers (0-9) or strings (using '.' for blank spaces).
